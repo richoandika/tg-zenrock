@@ -1,0 +1,25 @@
+{
+  "name": "tg-zenrock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richoandika/tg-zenrock.git"
+  },
+  "author": {
+    "name": "Richo Andika",
+    "email": "richoandika@null.net"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richoandika/tg-zenrock/issues"
+  },
+  "homepage": "https://github.com/richoandika/tg-zenrock#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
